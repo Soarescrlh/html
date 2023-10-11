@@ -1,4 +1,4 @@
-# html/* Reset de Estilos Padrão */
+ Reset de Estilos Padrão */
 body, h1, h2, h3, p {
     margin: 0;
     padding: 0;
