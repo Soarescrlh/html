@@ -1,0 +1,14 @@
+<div class="livro">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fhtml-css&psig=AOvVaw33KYFwvu71ue2EuJf9OEFd&ust=1697114200364000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiVtaCB7oEDFQAAAAAdAAAAABAE" alt="Livro 1">
+    <h3>Título do Livro 1</h3>
+    <p>Autor: Autor do Livro 1</p>
+    <p>Preço: R$ 29,99</p>
+    <button>Comprar</button>
+</div>
+<div class="livro">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fhtml-css&psig=AOvVaw33KYFwvu71ue2EuJf9OEFd&ust=1697114200364000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiVtaCB7oEDFQAAAAAdAAAAABAE" alt="Livro 2">
+    <h3>Título do Livro 2</h3>
+    <p>Autor: Autor do Livro 2</p>
+    <p>Preço: R$ 24,99</p>
+    <button>Comprar</button>
+</div>
